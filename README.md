@@ -1,6 +1,18 @@
-# Bonjour, je suis Khalil HADJ MESSAOUD
+# 🌍 Khalil HADJ MESSAOUD
 
 <img src="images/photo.png" alt="Photo de profil" width="150" style="border-radius:10%">
+
+---
+
+## 📑 Sommaire / Table of Contents
+- [🇫🇷 Français](#-français)
+- [🇬🇧 English](#-english)
+
+---
+
+## 🇫🇷 Français
+
+# Bonjour, je suis Khalil HADJ MESSAOUD
 
 Étudiant à l'[École 42](https://42.fr/), passionné par l’informatique et actuellement à la recherche d’un **stage en développement** (web, systèmes, ou DevOps).
 
@@ -48,3 +60,56 @@
 ---
 
 Contactez-moi pour une réponse sérieuse dans les plus brefs délais!
+
+---
+
+## 🇬🇧 English
+
+# Hello, I am Khalil HADJ MESSAOUD
+
+Student at [École 42](https://42.fr/), passionate about computer science and currently looking for an **internship in development** (web, systems, or DevOps).
+
+---
+
+## 🔧 TECHNICAL SKILLS 🔧
+- **Languages**: C, C++, JavaScript, TypeScript, Lua  
+- **Web**: HTML, CSS, Node.js, Fastify  
+- **Systems**: Linux, Bash, Git, Docker  
+- **Methods**: Pair programming, self-learning, problem solving  
+
+---
+
+## ✅ 42 PROJECTS ✅
+### Group
+- **ft_irc (C++)**: Creation of an IRC (Internet Relay Chat) server enabling communication between multiple connected clients.  
+- **ft_transcendence (ongoing; TypeScript + Fastify + Node.js + Docker)**: Development of an interactive website allowing users to play Pong solo or multiplayer, with a microservices architecture, and the game coded server-side.  
+
+### Solo
+- **Minishell (C)**: Development of a mini-shell compatible with basic Unix commands (handling multiple pipes, input/output redirections, etc.).  
+- **Inception (Docker/Nginx)**: Setup of a containerized web server with automated WordPress deployment.  
+
+---
+
+## ⚒️ EXPERIENCE AND LEARNING ⚒️
+### **École 42 Projects** (2024–…)  
+- Daily peer learning (learning from others, mutual code reviews).  
+- Teamwork (groups of 2 to 5 people depending on project size).  
+- Project management with strict deadlines (*blackhole*) or personal deadlines for better organization.  
+
+---
+
+## 📔 INTERESTS 📔
+- Software development (web development, game dev, etc.).  
+- DevOps (deployment and maintenance of applications, e.g., Docker).  
+- My religion.  
+
+---
+
+## 📞 CONTACT 📞
+- **City of residence**: Pontault-Combault  
+- **E-mail**: [khalilhadjmes1@gmail.com](mailto:khalilhadjmes1@gmail.com)  
+- **Phone number**: +33 7 67 65 15 53  
+
+---
+
+Feel free to contact me for a serious response as soon as possible!
