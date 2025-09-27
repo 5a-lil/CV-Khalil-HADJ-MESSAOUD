@@ -1,6 +1,6 @@
 # Bonjour, je suis Khalil HADJ MESSAOUD
 
-<img src="images/photo.png" alt="Photo de profil" width="150" style="border-radius:10%">
+<img src="images/photo.png" alt="PhotoCV" width="150" style="border-radius:10%">
 
 Étudiant à l'[École 42](https://42.fr/), passionné par l’informatique et actuellement à la recherche d’un **stage en développement** (web, systèmes, ou DevOps).
 
@@ -47,4 +47,4 @@
 
 ---
 
-Contactez-moi pour une réponse dans les plus brefs délais.
+Contactez-moi pour une réponse sérieuse dans les plus brefs délais!
