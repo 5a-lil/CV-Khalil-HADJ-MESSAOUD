@@ -1,23 +1,26 @@
 # 👋 Bonjour, je suis Khalil HADJ MESSAOUD
 
-<img src="images/photo.png" alt="Photo de profil" width="150" style="border-radius:50%">
+<img src="images/photo.png" alt="Photo de profil" width="150" style="border-radius:10%">
 
 🎓 Étudiant à l'[École 42](https://42.fr/), passionné par l’informatique et actuellement à la recherche d’un **stage en développement** (web, systèmes, ou DevOps).
 
 ---
 
 ## 🚀 Compétences techniques
-- **Langages :** C, C++, Python, JavaScript  
-- **Web :** HTML, CSS, Node.js, React  
+- **Langages :** C, C++, JavaScript, Typescript, Lua  
+- **Web :** HTML, CSS, Node.js, Fastify
 - **Systèmes :** Linux, Bash, Git, Docker  
 - **Méthodes :** Pair programming, apprentissage autonome, résolution de problèmes  
 
 ---
 
 ## 📂 Projets notables à 42
-- **Minishell (C)** : Développement d’un mini-shell compatible avec les commandes Unix de base.  
-- **Ft_server (Docker/Nginx)** : Mise en place d’un serveur web containerisé avec WordPress automatisé.  
-- **Libft (C)** : Création d’une librairie standard en C pour la manipulation de chaînes et de mémoire.  
+### En groupe
+- **ft_irc (C++)**: Creation d'un serveur IRC (Internet Relay Chat) pour mettre en place une possibilite de communication entre clients connecte sur le serveur.
+- **ft_transcendence (en cours; Typescript + Fastify + Node.js + Docker)**: Creation d un site web interactif qui permet cote client de jouer a Pong seul ou en multijoueur, en architecture microservices avec le jeu code en server-side.
+### Seul
+- **minishell (C)**: Développement d’un mini-shell compatible avec les commandes Unix de base. (gestion de multiples pipes, redirections input/output...) 
+- **Inception (Docker/Nginx)**: Mise en place d’un serveur web containerisé avec WordPress automatisé. (lien pour le github de Inception) 
 
 ---
 
