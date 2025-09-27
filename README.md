@@ -26,9 +26,9 @@
 
 ## 📌 Expériences et apprentissages
 ### **Les projets de l'École 42** (2024–…)
-- Peer learning quotidien
-- Travaux en groupes
-- Gestion de projet pour des deadlines fixes
+- Peer learning quotidien (apprentissages d autrui, correction mutuelle...)
+- Travaux en groupes (equipe de 2, 3, 4 ou 5 pour les plus gros projets)
+- Gestion de projet pour des deadlines fixes ('Blackhole' ou deadlines personnelles)
 
 ---
 
