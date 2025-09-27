@@ -17,7 +17,7 @@
 ## ✅ PROJETS 42 ✅
 ### En groupe
 - **ft_irc (C++)**: Création d’un serveur IRC (Internet Relay Chat) permettant la communication entre plusieurs clients connectés.  
-- **ft_transcendence (en cours ; TypeScript + Fastify + Node.js + Docker)**: Développement d’un site web interactif permettant aux utilisateurs de jouer à Pong en solo ou en multijoueur, en architecture microservices, avec le jeu codé côté serveur.  
+- **ft_transcendence (en cours; TypeScript + Fastify + Node.js + Docker)**: Développement d’un site web interactif permettant aux utilisateurs de jouer à Pong en solo ou en multijoueur, en architecture microservices, avec le jeu codé côté serveur.  
 
 ### En solo
 - **Minishell (C)**: Développement d’un mini-shell compatible avec les commandes Unix de base (gestion de pipes multiples, redirections input/output, etc.).  
