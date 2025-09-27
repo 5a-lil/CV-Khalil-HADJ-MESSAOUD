@@ -14,7 +14,7 @@
 
 ---
 
-## Projets notables à 42
+## ✅ Projets notables à 42 ✅
 ### En groupe
 - **ft_irc (C++)**: Creation d'un serveur IRC (Internet Relay Chat) pour mettre en place une possibilite de communication entre clients connecte sur le serveur.
 - **ft_transcendence (en cours; Typescript + Fastify + Node.js + Docker)**: Creation d un site web interactif qui permet cote client de jouer a Pong seul ou en multijoueur, en architecture microservices avec le jeu code en server-side.
@@ -33,10 +33,9 @@
 ---
 
 ## Centres d’intérêt
-- 💻 Informatique & DevOps  
-- 📚 Apprentissage continu  
-- 🏋️ Sport  
-- 🎮 Jeux de versus fighting  
+- Le developpement software (developpement web, le game dev...)
+- Le devOps (les deploiements et maintients d applications, ex: Docker)
+- Ma religion 
 
 ---
 
