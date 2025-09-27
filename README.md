@@ -7,21 +7,21 @@
 ---
 
 ## 🔧 COMPÉTENCES TECHNIQUES 🔧
-- **Langages** : C, C++, JavaScript, TypeScript, Lua  
-- **Web** : HTML, CSS, Node.js, Fastify  
-- **Systèmes** : Linux, Bash, Git, Docker  
-- **Méthodes** : Pair programming, apprentissage autonome, résolution de problèmes  
+- **Langages**: C, C++, JavaScript, TypeScript, Lua  
+- **Web**: HTML, CSS, Node.js, Fastify  
+- **Systèmes**: Linux, Bash, Git, Docker  
+- **Méthodes**: Pair programming, apprentissage autonome, résolution de problèmes  
 
 ---
 
 ## ✅ PROJETS 42 ✅
 ### En groupe
-- **ft_irc (C++)** : Création d’un serveur IRC (Internet Relay Chat) permettant la communication entre plusieurs clients connectés.  
-- **ft_transcendence (en cours ; TypeScript + Fastify + Node.js + Docker)** : Développement d’un site web interactif permettant aux utilisateurs de jouer à Pong en solo ou en multijoueur, en architecture microservices, avec le jeu codé côté serveur.  
+- **ft_irc (C++)**: Création d’un serveur IRC (Internet Relay Chat) permettant la communication entre plusieurs clients connectés.  
+- **ft_transcendence (en cours ; TypeScript + Fastify + Node.js + Docker)**: Développement d’un site web interactif permettant aux utilisateurs de jouer à Pong en solo ou en multijoueur, en architecture microservices, avec le jeu codé côté serveur.  
 
 ### En solo
-- **Minishell (C)** : Développement d’un mini-shell compatible avec les commandes Unix de base (gestion de pipes multiples, redirections input/output, etc.).  
-- **Inception (Docker/Nginx)** : Mise en place d’un serveur web containerisé avec WordPress automatisé.  
+- **Minishell (C)**: Développement d’un mini-shell compatible avec les commandes Unix de base (gestion de pipes multiples, redirections input/output, etc.).  
+- **Inception (Docker/Nginx)**: Mise en place d’un serveur web containerisé avec WordPress automatisé.  
 
 ---
 
@@ -35,16 +35,16 @@
 
 ## 📔 CENTRES D’INTÉRÊT 📔
 - Le développement logiciel (développement web, game dev, etc.).  
-- Le DevOps (déploiement et maintien d’applications, ex. : Docker).  
+- Le DevOps (déploiement et maintien d’applications, ex.: Docker).  
 - Ma religion.  
 
 ---
 
 ## 📞 CONTACT 📞
-- **Ville de résidence** : Pontault-Combault  
-- **E-mail** : [khalilhadjmes1@gmail.com](mailto:khalilhadjmes1@gmail.com)  
-- **Numéro de téléphone** : 07 67 65 15 53  
+- **Ville de résidence**: Pontault-Combault  
+- **E-mail**: [khalilhadjmes1@gmail.com](mailto:khalilhadjmes1@gmail.com)  
+- **Numéro de téléphone**: 07 67 65 15 53  
 
 ---
 
-Contactez-moi pour une réponse dans les plus brefs délais.
+Contactez-moi pour une réponse sérieuse dans les plus brefs délais!
