@@ -40,8 +40,16 @@
 
 ---
 
+## 🗣️ LANGUES 🗣️
+- 🇫🇷 Français: courants
+- 🇬🇧 Anglais: bilingue
+- 🇸🇦 Arabe Littéraire: niveau débutant
+- 🇹🇳 Arabe dialectale tunisien: niveau modéré
+
+---
+
 ## 📞 CONTACT 📞
-- **Ville de résidence**: Pontault-Combault  
+- **Ville de résidence**: Pontault-Combault
 - **E-mail**: [khalilhadjmes1@gmail.com](mailto:khalilhadjmes1@gmail.com)  
 - **Numéro de téléphone**: 07 67 65 15 53  
 
