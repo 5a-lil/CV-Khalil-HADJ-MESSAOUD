@@ -14,7 +14,7 @@
 
 ---
 
-## ✅ Projets notables à 42 ✅
+## ✅ PROJETS 42 ✅
 ### En groupe
 - **ft_irc (C++)**: Creation d'un serveur IRC (Internet Relay Chat) pour mettre en place une possibilite de communication entre clients connecte sur le serveur.
 - **ft_transcendence (en cours; Typescript + Fastify + Node.js + Docker)**: Creation d un site web interactif qui permet cote client de jouer a Pong seul ou en multijoueur, en architecture microservices avec le jeu code en server-side.
@@ -24,7 +24,7 @@
 
 ---
 
-## Expériences et apprentissages
+## ⚒️ EXPERIENCES ET APPENTISSAGES ⚒️
 ### **Les projets de l'École 42** (2024–…)
 - Peer learning quotidien (apprentissages d autrui, correction mutuelle...)
 - Travaux en groupes (equipe de 2, 3, 4 ou 5 pour les plus gros projets)
