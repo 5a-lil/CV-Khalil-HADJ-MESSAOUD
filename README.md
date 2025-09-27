@@ -32,14 +32,14 @@
 
 ---
 
-## Centres d’intérêt
+## 📔 CENTRES D INTERET 📔
 - Le developpement software (developpement web, le game dev...)
 - Le devOps (les deploiements et maintients d applications, ex: Docker)
 - Ma religion 
 
 ---
 
-## Contact
+## 📞 CONTACT 📞
 - 📍 Pontault-Combault  
 - 📧 [khalilhadjmes1@gmail.com](mailto:khalilhadjmes1@gmail.com)  
 - ☎️ 07 67 65 15 53  
