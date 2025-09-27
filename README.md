@@ -24,9 +24,11 @@
 
 ---
 
-## 📌 Expériences
-- **Missions d’intérim polyvalentes** (2023) → travail en équipe, manutention, adaptabilité.  
-- **Projets académiques École 42** (2022–…) → travail intensif en groupe, deadlines strictes.  
+## 📌 Expériences et apprentissages
+### **Les projets de l'École 42** (2024–…)
+- Peer learning quotidien
+- Travaux en groupes
+- Gestion de projet pour des deadlines fixes
 
 ---
 
