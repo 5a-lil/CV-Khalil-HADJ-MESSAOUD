@@ -2,7 +2,7 @@
 
 <img src="images/photo.png" alt="Photo de profil" width="150" style="border-radius:10%">
 
-🎓 Étudiant à l'[École 42](https://42.fr/), passionné par l’informatique et actuellement à la recherche d’un **stage en développement** (web, systèmes, ou DevOps).
+🎓 Étudiant à l'[École 42](https://42.fr/), passionné par l’informatique et actuellement à la recherche d’un **stage en développement** (web, systèmes, ou devOps).
 
 ---
 
