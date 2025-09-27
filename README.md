@@ -21,7 +21,7 @@
 
 ### En solo
 - **Minishell (C)**: Développement d’un mini-shell compatible avec les commandes Unix de base (gestion de pipes multiples, redirections input/output, etc.).  
-- **Inception (Docker/Nginx)**: Mise en place d’un serveur web containerisé avec WordPress automatisé. *(Lien vers le dépôt GitHub d’Inception)*  
+- **Inception (Docker/Nginx)**: Mise en place d’un serveur web containerisé avec WordPress automatisé.  
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## 📔 CENTRES D’INTÉRÊT 📔
 - Le développement logiciel (développement web, game dev, etc.).  
-- Le DevOps (déploiement et maintien d’applications, ex. : Docker).  
+- Le DevOps (déploiement et maintien d’applications, ex.: Docker).  
 - Ma religion.  
 
 ---
@@ -47,4 +47,4 @@
 
 ---
 
-✨ N’hésitez pas à me contacter pour un stage ou une mission en développement !
+Contactez-moi pour une réponse dans les plus brefs délais.
