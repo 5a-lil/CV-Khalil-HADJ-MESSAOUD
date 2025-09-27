@@ -7,10 +7,10 @@
 ---
 
 ## 🔧 COMPETENCES TECHNIQUES 🔧
-- **Langages :** C, C++, JavaScript, Typescript, Lua  
-- **Web :** HTML, CSS, Node.js, Fastify
-- **Systèmes :** Linux, Bash, Git, Docker  
-- **Méthodes :** Pair programming, apprentissage autonome, résolution de problèmes  
+- **Langages**: C, C++, JavaScript, Typescript, Lua  
+- **Web**: HTML, CSS, Node.js, Fastify
+- **Systèmes**: Linux, Bash, Git, Docker  
+- **Méthodes**: Pair programming, apprentissage autonome, résolution de problèmes  
 
 ---
 
@@ -40,10 +40,9 @@
 ---
 
 ## 📞 CONTACT 📞
-- 📍 Pontault-Combault  
-- 📧 [khalilhadjmes1@gmail.com](mailto:khalilhadjmes1@gmail.com)  
-- ☎️ 07 67 65 15 53  
-- 🔗 [Mon GitHub](https://github.com/tonpseudo)  
+- Ville de residence: Pontault-Combault  
+- Adresse: [khalilhadjmes1@gmail.com](mailto:khalilhadjmes1@gmail.com)  
+- Numero de telephone: 07 67 65 15 53  
 
 ---
 N’hésitez pas à me contacter pour un stage ou une mission en développement !
