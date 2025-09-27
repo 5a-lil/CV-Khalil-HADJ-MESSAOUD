@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Compétences techniques 🔧
+## 🔧 COMPETENCES TECHNIQUES 🔧
 - **Langages :** C, C++, JavaScript, Typescript, Lua  
 - **Web :** HTML, CSS, Node.js, Fastify
 - **Systèmes :** Linux, Bash, Git, Docker  
