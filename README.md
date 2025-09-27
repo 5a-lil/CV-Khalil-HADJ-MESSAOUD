@@ -21,7 +21,7 @@
 
 ### En solo
 - **Minishell (C)**: Développement d’un mini-shell compatible avec les commandes Unix de base (gestion de pipes multiples, redirections input/output, etc.).  
-- **Inception (Docker/Nginx)**: Mise en place d’un serveur web containerisé avec WordPress automatisé.  
+- **Inception (Docker)**: Mise en place d’un serveur web containerisé avec WordPress automatisé (serveur MariaDB + serveur Nginx configurés).  
 
 ---
 
