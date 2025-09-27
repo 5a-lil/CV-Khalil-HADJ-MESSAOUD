@@ -40,9 +40,9 @@
 ---
 
 ## 📞 CONTACT 📞
-- Ville de residence: Pontault-Combault  
-- Adresse: [khalilhadjmes1@gmail.com](mailto:khalilhadjmes1@gmail.com)  
-- Numero de telephone: 07 67 65 15 53  
+- **Ville de residence**: Pontault-Combault  
+- **Adresse**: [khalilhadjmes1@gmail.com](mailto:khalilhadjmes1@gmail.com)  
+- **Numero de telephone**: 07 67 65 15 53  
 
 ---
 N’hésitez pas à me contacter pour un stage ou une mission en développement !
