@@ -47,4 +47,4 @@
 
 ---
 
-Contactez-moi pour une réponse dans les plus brefs délais!
+Contactez-moi pour une réponse sérieuse dans les plus brefs délais!
