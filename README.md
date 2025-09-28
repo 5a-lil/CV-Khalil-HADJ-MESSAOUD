@@ -40,7 +40,8 @@
 ## 📔 CENTRES D’INTÉRÊT 📔
 - Le développement logiciel (développement web, game dev, etc.).  
 - Le DevOps (déploiement et maintien d’applications, ex.: Docker).  
-- Ma religion.  
+- Le sport/ma santé
+- Les jeux vidéos 
 
 ---
 
