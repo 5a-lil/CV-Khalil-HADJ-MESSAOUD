@@ -32,8 +32,8 @@
 - Gestion de projet avec respect de deadlines fixes (*blackhole*) ou personnelles pour une meilleure organisation.
 
 ### **Voyage internationaux**
-- Je suis parti plusieurs en Tunisie.
-- J'ai vécu 2 ans en Angleterre d'où mon bilinguisme.
+- Je suis parti plusieurs fois en Tunisie.
+- J'ai vécu 2 ans en Angleterre, d'où mon bilinguisme.
 
 ---
 
