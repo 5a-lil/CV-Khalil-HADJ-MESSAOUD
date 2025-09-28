@@ -26,10 +26,14 @@
 ---
 
 ## ⚒️ EXPÉRIENCES ET APPRENTISSAGES ⚒️
-### **Projets de l’École 42** (2024–…)  
+### **Projets de l’École 42**
 - Peer learning quotidien (apprentissage auprès d’autrui, corrections mutuelles).  
 - Travaux en groupe (équipes de 2 à 5 personnes selon la taille des projets).  
-- Gestion de projet avec respect de deadlines fixes (*blackhole*) ou personnelles pour une meilleure organisation.  
+- Gestion de projet avec respect de deadlines fixes (*blackhole*) ou personnelles pour une meilleure organisation.
+
+### **Voyage internationaux**
+- Je suis parti plusieurs en Tunisie.
+- J'ai vécu 2 ans en Angleterre d'où mon bilinguisme.
 
 ---
 
