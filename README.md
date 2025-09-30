@@ -40,7 +40,7 @@
 ### **Voyages internationaux**
 
 * Séjours multiples en **Tunisie**.
-* **2 ans vécus en Angleterre** → **Anglais bilingue**.
+* **2 ans vécus en Angleterre** (**Anglais bilingue**).
 
 ---
 
